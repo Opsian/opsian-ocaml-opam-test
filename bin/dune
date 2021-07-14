@@ -1,0 +1,4 @@
+(executable
+ (public_name opsian_ocaml_test)
+ (name main)
+ (libraries opsian threads unix))
